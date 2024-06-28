@@ -1,0 +1,18 @@
+body{
+    background-image: url(joshua-earle-9idqIGrLuTE-unsplash.jpg);
+    background-size: 100vw 100vh;
+    font-size: xx-large;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
